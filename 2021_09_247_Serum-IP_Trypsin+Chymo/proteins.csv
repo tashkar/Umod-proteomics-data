@@ -1,0 +1,2 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),Coverage (%) chymo CID,Coverage (%) chymo EtHCD,Coverage (%) trypsin CID,Coverage (%) trypsin EtHCD,Area chymo CID,Area chymo EtHCD,Area trypsin CID,Area trypsin EtHCD,#Peptides,#Unique,#Spec chymo CID,#Spec chymo EtHCD,#Spec trypsin CID,#Spec trypsin EtHCD,PTM,Avg. Mass,Description
+454,406,Q16851|UGPA_HUMAN,35.68,2,0,0,2,0,,,0,,1,1,0,0,1,0,,56940,UTP--glucose-1-phosphate uridylyltransferase OS=Homo sapiens OX=9606 GN=UGP2 PE=1 SV=5

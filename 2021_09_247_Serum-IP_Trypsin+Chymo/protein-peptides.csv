@@ -1,0 +1,2 @@
+Protein Group,Protein ID,Protein Accession,Peptide,Unique,-10lgP,Mass,Length,ppm,m/z,z,RT,Area chymo CID,Area chymo EtHCD,Area trypsin CID,Area trypsin EtHCD,Fraction,Scan,Source File,#Feature,#Feature chymo CID,#Feature chymo EtHCD,#Feature trypsin CID,#Feature trypsin EtHCD,Start,End,PTM,AScore,Found By
+454,406,Q16851|UGPA_HUMAN,K.SFENSLGINVPR.S,Y,35.68,1331.6833,12,1.6,666.8500,2,69.73,,,0,,3,F3:74597,2021_09_247_Lumos_EasySpray_Ashkar_IP32THP_trypsin_CID1.raw,0,0,0,0,0,378,389,,,PEAKS DB
