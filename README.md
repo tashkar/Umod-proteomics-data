@@ -7,11 +7,11 @@ csv. files for mass spec on IP samples
 
 Files: 
 
-DB serach
+DB search
 
 de novo peptides
 
-peptide
+peptides
 
 protein-peptides
 
