@@ -1,5 +1,5 @@
 # Umod-proteomics-data
-csv. files for mass spec on IP samples
+.csv and png files for mass spec on IP samples
 
 2 experiments for urine IP with THP+EHP
 
@@ -16,3 +16,5 @@ peptides
 protein-peptides
 
 proteins
+
+coverage png file
